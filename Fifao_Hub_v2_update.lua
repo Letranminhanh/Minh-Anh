@@ -25,7 +25,7 @@ local Tabs = {
     Shop = Window:AddTab({ Title = "Buy Items", Icon = "shopping-cart" }),
 	Misc = Window:AddTab({ Title = "Miscellaneous", Icon = "list-plus" }),
     Hop = Window:AddTab({ Title = "Hop", Icon = "wifi" }),
-    Hop = Window:AddTab({ Title = "Disscord", Icon = "Discord" }),
+    Dis = Window:AddTab({ Title = "Disscord", Icon = "Discord" }),
 }
 local Options = Fluent.Options
 do
